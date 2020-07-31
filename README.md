@@ -1,3 +1,5 @@
+# Under construction... Nothing here yet
+
 # JapaneseFin-BERT
 Japanese BERT for financial text 
 
